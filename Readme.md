@@ -36,13 +36,13 @@
   </tr>
 </table>
 
-<img src="" alt="Trang đăng nhập quản trị" width="820">
+<img src="https://github.com/JunioT-Rex/BW16-RTL8720DN-Wifi-Deauther/blob/main/Login.JPG?raw=true" alt="Trang đăng nhập quản trị" width="820">
 
 *Trang đăng nhập quản trị*
 
 <br>
 
-<img src="" alt="Trang chính" width="820">
+<img src="https://github.com/JunioT-Rex/BW16-RTL8720DN-Wifi-Deauther/blob/main/Home.JPG?raw=true" alt="Trang chính" width="820">
 
 *Giao diện khi đã đăng nhập*
 
